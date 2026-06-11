@@ -1,4 +1,4 @@
-![Pluvia logo](https://raw.githubusercontent.com/ericmiguel/pluvia/v0.1.0/assets/static/logo.png)
+![Pluvia logo](https://raw.githubusercontent.com/ericmiguel/pluma/v0.1.0/assets/static/logo.png)
 
 Cliente para coleta de dados hidrometeorológicos do Brasil.
 

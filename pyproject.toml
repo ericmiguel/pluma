@@ -126,5 +126,5 @@ replace = '__version__ = "{new_version}"'
 
 [[tool.bumpversion.files]]
 filename = "README.md"
-search = "/ericmiguel/pluvia/v{current_version}/"
-replace = "/ericmiguel/pluvia/v{new_version}/"
+search = "/ericmiguel/pluma/v{current_version}/"
+replace = "/ericmiguel/pluma/v{new_version}/"
