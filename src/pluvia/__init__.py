@@ -14,7 +14,7 @@ from pluvia.infrastructure.ana.client import AnaClient
 from pluvia.infrastructure.cache import StationMeta
 from pluvia.infrastructure.logging import setup_logging
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 
 class ANA:
